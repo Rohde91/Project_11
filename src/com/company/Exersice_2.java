@@ -2,7 +2,7 @@ package com.company;
 
 public class Exersice_2 {
 
-    // Den skal hedde static grundet at main er static
+    // Den skal hedde static grundet at main er static.
     static void printTile(Tile tile){
         System.out.println(tile);
     }

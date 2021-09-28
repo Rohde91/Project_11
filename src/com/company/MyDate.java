@@ -5,7 +5,7 @@ public class MyDate {
     private String month;
     private int year;
         // private er kun muligt at bruge lokalt i koden.
-        // public kan tilgås udenfor
+        // public kan tilgås udenfor.
         // De er ikke definerede grundet at den får information fra Exersice_3.
         // De data/information der kommer fra Exersice_3 bliver der efter kørt igennem systemet og
         // udskrevet ved hjælp at toString der kommer nederst i denne fil.
